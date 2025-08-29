@@ -1,0 +1,18 @@
+name: pairs-trading
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - statsmodels
+  - tqdm
+  - pykalman
+  - joblib
+  - ta-lib
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - imbalanced-learn
+  - quantstats
