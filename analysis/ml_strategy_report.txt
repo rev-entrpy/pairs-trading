@@ -1,0 +1,91 @@
+
+============================================================
+PERFORMANCE ANALYSIS: ML-Enhanced Kalman Filter Strategy
+============================================================
+                           Strategy
+-------------------------  ----------
+Start Period               2020-01-02
+End Period                 2025-07-30
+Risk-Free Rate             1.0%
+Time in Market             49.0%
+
+Cumulative Return          46.03%
+CAGR﹪                     6.78%
+
+Sharpe                     1.65
+Prob. Sharpe Ratio         100.0%
+Smart Sharpe               1.59
+Sortino                    2.45
+Smart Sortino              2.36
+Sortino/√2                 1.73
+Smart Sortino/√2           1.67
+Omega                      1.51
+
+Max Drawdown               -3.92%
+Max DD Date                2025-01-07
+Max DD Period Start        2024-09-11
+Max DD Period End          2025-06-20
+Longest DD Days            306
+Volatility (ann.)          3.4%
+Calmar                     1.73
+Skew                       -0.7
+Kurtosis                   16.86
+
+Expected Daily %           0.03%
+Expected Monthly %         0.57%
+Expected Yearly %          6.51%
+Kelly Criterion            25.8%
+Risk of Ruin               0.0%
+Daily Value-at-Risk        -0.33%
+Expected Shortfall (cVaR)  -0.33%
+
+Max Consecutive Wins       5
+Max Consecutive Losses     4
+Gain/Pain Ratio            0.64
+Gain/Pain (1M)             2.38
+
+Payoff Ratio               0.85
+Profit Factor              1.64
+Common Sense Ratio         1.72
+CPC Index                  0.92
+Tail Ratio                 1.05
+Outlier Win Ratio          8.34
+Outlier Loss Ratio         2.59
+
+MTD                        0.69%
+3M                         3.16%
+6M                         2.54%
+YTD                        3.54%
+1Y                         2.38%
+3Y (ann.)                  2.95%
+5Y (ann.)                  5.39%
+10Y (ann.)                 6.78%
+All-time (ann.)            6.78%
+
+Best Day                   1.27%
+Worst Day                  -2.38%
+Best Month                 4.23%
+Worst Month                -1.78%
+Best Year                  17.75%
+Worst Year                 0.48%
+
+Avg. Drawdown              -0.57%
+Avg. Drawdown Days         26
+Recovery Factor            9.74
+Ulcer Index                0.01
+Serenity Index             3.65
+
+Avg. Up Month              1.21%
+Avg. Down Month            -0.73%
+Win Days %                 66.01%
+Win Month %                67.16%
+Win Quarter %              86.96%
+Win Year %                 100.0%
+
+--- Trade Statistics ---
+Total Trades:       1044
+Win Rate:           67.24%
+Average Win:        $2,059.01
+Average Loss:       $-2,880.62
+Profit Factor:      1.47
+============================================================
